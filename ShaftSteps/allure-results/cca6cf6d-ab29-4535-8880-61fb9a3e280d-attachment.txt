@@ -1,0 +1,160 @@
+[INFO ] 2023-01-29 16:47:10.056 [main] ReportManager - 
+################################################################################################################################################
+Detected SHAFT Engine Version: "SHAFT Engine v7.1.20230116"
+################################################################################################################################################
+[INFO ] 2023-01-29 16:47:12.681 [main] ReportManager - Loaded OpenCV "opencv_java460".
+[INFO ] 2023-01-29 16:47:12.690 [main] ReportManager - Initializing Allure Reporting Environment...
+[INFO ] 2023-01-29 16:47:13.134 [main] ReportManager - Initializing Extent Reporting Environment...
+[INFO ] 2023-01-29 16:47:15.228 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2023-01-29 16:47:15.360 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+[INFO ] 2023-01-29 16:47:15.366 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.368 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.368 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.368 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.370 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.370 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.371 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.372 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.373 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.373 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.374 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.374 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.375 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.375 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.383 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.383 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.384 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.384 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.392 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[INFO ] 2023-01-29 16:47:15.405 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+[INFO ] 2023-01-29 16:47:15.408 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.408 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.411 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.412 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.413 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.413 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.414 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.415 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.417 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.419 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.420 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.420 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.422 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.422 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.423 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.424 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.425 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.426 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.428 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.439 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.442 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.443 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.451 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+[INFO ] 2023-01-29 16:47:15.452 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2023-01-29 16:47:15.456 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.456 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.457 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-29 16:47:15.458 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2023-01-29 16:47:15.500 [main] Utils - [TestNG] Running:
+  C:\Users\Mass\AppData\Local\Temp\testng-eclipse--1540484054\testng-customsuite.xml
+
+[INFO ] 2023-01-29 16:47:15.591 [main] ReportManager - 
+################################################################################################################################################
+Starting Execution of a Configuration (Setup or Teardown) Method
+Test Method:		"io.github.shafthq.shaft.listeners.helpers.ConfigurationHelper.suiteSetup"
+################################################################################################################################################
+[INFO ] 2023-01-29 16:47:15.671 [main] ReportManager - Initializing Important Links...
+[INFO ] 2023-01-29 16:47:15.702 [main] ReportManager - Initializing Properties...
+[INFO ] 2023-01-29 16:47:16.063 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+[INFO ] 2023-01-29 16:47:16.120 [main] Utils - [TestRunner] Starting executor for test Test with time out:2147483647 milliseconds.
+[INFO ] 2023-01-29 16:47:16.308 [TestNG-test=Test-1] ReportManager - 
+################################################################################################################################################
+Starting Execution:	"1 out of 1" test cases in the current suite
+Test Method:		"Shaft1.Shaft1.APIS.testWaits"
+################################################################################################################################################
+[DEBUG] 2023-01-29 16:47:21.614 [TestNG-test=Test-1] BasicClientConnectionManager - Get connection for route {s}->https://todo.qacart.com:443
+[DEBUG] 2023-01-29 16:47:21.737 [TestNG-test=Test-1] DefaultClientConnectionOperator - Connecting to todo.qacart.com:443
+[DEBUG] 2023-01-29 16:47:22.514 [TestNG-test=Test-1] RequestAddCookies - CookieSpec selected: ignoreCookies
+[DEBUG] 2023-01-29 16:47:22.517 [TestNG-test=Test-1] RequestAuthCache - Auth cache not set in the context
+[DEBUG] 2023-01-29 16:47:22.518 [TestNG-test=Test-1] RequestTargetAuthentication - Target auth state: UNCHALLENGED
+[DEBUG] 2023-01-29 16:47:22.519 [TestNG-test=Test-1] RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+[DEBUG] 2023-01-29 16:47:22.520 [TestNG-test=Test-1] DefaultHttpClient - Attempt 1 to execute request
+[DEBUG] 2023-01-29 16:47:22.521 [TestNG-test=Test-1] DefaultClientConnection - Sending request: POST /api/v1/users/login HTTP/1.1
+[DEBUG] 2023-01-29 16:47:22.522 [TestNG-test=Test-1] wire -  >> "POST /api/v1/users/login HTTP/1.1[\r][\n]"
+[DEBUG] 2023-01-29 16:47:22.525 [TestNG-test=Test-1] wire -  >> "Accept: */*[\r][\n]"
+[DEBUG] 2023-01-29 16:47:22.525 [TestNG-test=Test-1] wire -  >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+[DEBUG] 2023-01-29 16:47:22.525 [TestNG-test=Test-1] wire -  >> "Content-Length: 49[\r][\n]"
+[DEBUG] 2023-01-29 16:47:22.526 [TestNG-test=Test-1] wire -  >> "Host: todo.qacart.com[\r][\n]"
+[DEBUG] 2023-01-29 16:47:22.526 [TestNG-test=Test-1] wire -  >> "Connection: Keep-Alive[\r][\n]"
+[DEBUG] 2023-01-29 16:47:22.526 [TestNG-test=Test-1] wire -  >> "User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.4)[\r][\n]"
+[DEBUG] 2023-01-29 16:47:22.526 [TestNG-test=Test-1] wire -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+[DEBUG] 2023-01-29 16:47:22.526 [TestNG-test=Test-1] wire -  >> "[\r][\n]"
+[DEBUG] 2023-01-29 16:47:22.526 [TestNG-test=Test-1] headers - >> POST /api/v1/users/login HTTP/1.1
+[DEBUG] 2023-01-29 16:47:22.527 [TestNG-test=Test-1] headers - >> Accept: */*
+[DEBUG] 2023-01-29 16:47:22.527 [TestNG-test=Test-1] headers - >> Content-Type: application/json; charset=UTF-8
+[DEBUG] 2023-01-29 16:47:22.527 [TestNG-test=Test-1] headers - >> Content-Length: 49
+[DEBUG] 2023-01-29 16:47:22.527 [TestNG-test=Test-1] headers - >> Host: todo.qacart.com
+[DEBUG] 2023-01-29 16:47:22.527 [TestNG-test=Test-1] headers - >> Connection: Keep-Alive
+[DEBUG] 2023-01-29 16:47:22.527 [TestNG-test=Test-1] headers - >> User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.4)
+[DEBUG] 2023-01-29 16:47:22.527 [TestNG-test=Test-1] headers - >> Accept-Encoding: gzip,deflate
+[DEBUG] 2023-01-29 16:47:22.528 [TestNG-test=Test-1] wire -  >> "{"password":"123456","email":"hatem@example.com"}"
+[DEBUG] 2023-01-29 16:47:22.890 [TestNG-test=Test-1] wire -  << "HTTP/1.1 200 OK[\r][\n]"
+[DEBUG] 2023-01-29 16:47:22.893 [TestNG-test=Test-1] wire -  << "Server: Cowboy[\r][\n]"
+[DEBUG] 2023-01-29 16:47:22.894 [TestNG-test=Test-1] wire -  << "Connection: keep-alive[\r][\n]"
+[DEBUG] 2023-01-29 16:47:22.894 [TestNG-test=Test-1] wire -  << "X-Powered-By: Express[\r][\n]"
+[DEBUG] 2023-01-29 16:47:22.894 [TestNG-test=Test-1] wire -  << "Access-Control-Allow-Origin: *[\r][\n]"
+[DEBUG] 2023-01-29 16:47:22.894 [TestNG-test=Test-1] wire -  << "Set-Cookie: access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZDY3YmVhNzZhOTY1MDAxNjQwYjZjMiIsImZpcnN0TmFtZSI6IkhhdGVtIiwiaWF0IjoxNjc1MDAzNjQ4fQ.cj70rJWa3H_zccPoLGa6zp73zlK1J4zeOQ1Ii2KwXq4; Path=/[\r][\n]"
+[DEBUG] 2023-01-29 16:47:22.894 [TestNG-test=Test-1] wire -  << "Set-Cookie: userID=j%3A%2263d67bea76a965001640b6c2%22; Path=/[\r][\n]"
+[DEBUG] 2023-01-29 16:47:22.894 [TestNG-test=Test-1] wire -  << "Set-Cookie: firstName=Hatem; Path=/[\r][\n]"
+[DEBUG] 2023-01-29 16:47:22.895 [TestNG-test=Test-1] wire -  << "Content-Type: application/json; charset=utf-8[\r][\n]"
+[DEBUG] 2023-01-29 16:47:22.895 [TestNG-test=Test-1] wire -  << "Content-Length: 250[\r][\n]"
+[DEBUG] 2023-01-29 16:47:22.895 [TestNG-test=Test-1] wire -  << "Etag: W/"fa-wHtPq8OWG+mdXS1FRiwb0RSk5lI"[\r][\n]"
+[DEBUG] 2023-01-29 16:47:22.895 [TestNG-test=Test-1] wire -  << "Date: Sun, 29 Jan 2023 14:47:28 GMT[\r][\n]"
+[DEBUG] 2023-01-29 16:47:22.895 [TestNG-test=Test-1] wire -  << "Via: 1.1 vegur[\r][\n]"
+[DEBUG] 2023-01-29 16:47:22.895 [TestNG-test=Test-1] wire -  << "[\r][\n]"
+[DEBUG] 2023-01-29 16:47:22.897 [TestNG-test=Test-1] DefaultClientConnection - Receiving response: HTTP/1.1 200 OK
+[DEBUG] 2023-01-29 16:47:22.897 [TestNG-test=Test-1] headers - << HTTP/1.1 200 OK
+[DEBUG] 2023-01-29 16:47:22.897 [TestNG-test=Test-1] headers - << Server: Cowboy
+[DEBUG] 2023-01-29 16:47:22.897 [TestNG-test=Test-1] headers - << Connection: keep-alive
+[DEBUG] 2023-01-29 16:47:22.897 [TestNG-test=Test-1] headers - << X-Powered-By: Express
+[DEBUG] 2023-01-29 16:47:22.898 [TestNG-test=Test-1] headers - << Access-Control-Allow-Origin: *
+[DEBUG] 2023-01-29 16:47:22.898 [TestNG-test=Test-1] headers - << Set-Cookie: access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZDY3YmVhNzZhOTY1MDAxNjQwYjZjMiIsImZpcnN0TmFtZSI6IkhhdGVtIiwiaWF0IjoxNjc1MDAzNjQ4fQ.cj70rJWa3H_zccPoLGa6zp73zlK1J4zeOQ1Ii2KwXq4; Path=/
+[DEBUG] 2023-01-29 16:47:22.898 [TestNG-test=Test-1] headers - << Set-Cookie: userID=j%3A%2263d67bea76a965001640b6c2%22; Path=/
+[DEBUG] 2023-01-29 16:47:22.898 [TestNG-test=Test-1] headers - << Set-Cookie: firstName=Hatem; Path=/
+[DEBUG] 2023-01-29 16:47:22.898 [TestNG-test=Test-1] headers - << Content-Type: application/json; charset=utf-8
+[DEBUG] 2023-01-29 16:47:22.898 [TestNG-test=Test-1] headers - << Content-Length: 250
+[DEBUG] 2023-01-29 16:47:22.898 [TestNG-test=Test-1] headers - << Etag: W/"fa-wHtPq8OWG+mdXS1FRiwb0RSk5lI"
+[DEBUG] 2023-01-29 16:47:22.898 [TestNG-test=Test-1] headers - << Date: Sun, 29 Jan 2023 14:47:28 GMT
+[DEBUG] 2023-01-29 16:47:22.898 [TestNG-test=Test-1] headers - << Via: 1.1 vegur
+[DEBUG] 2023-01-29 16:47:22.907 [TestNG-test=Test-1] DefaultHttpClient - Connection can be kept alive indefinitely
+[DEBUG] 2023-01-29 16:47:22.917 [TestNG-test=Test-1] RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+[DEBUG] 2023-01-29 16:47:22.918 [TestNG-test=Test-1] RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[INFO ] 2023-01-29 16:47:23.001 [TestNG-test=Test-1] ReportManager - Response status code: "200", status line: "HTTP/1.1 200 OK"
+[INFO ] 2023-01-29 16:47:23.015 [TestNG-test=Test-1] ReportManager - Assertion "ValidateComparativeRelation" PASSED. Expected "200" and Actual "200". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[DEBUG] 2023-01-29 16:47:23.090 [TestNG-test=Test-1] wire -  << "{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZDY3YmVhNzZhOTY1MDAxNjQwYjZjMiIsImZpcnN0TmFtZSI6IkhhdGVtIiwiaWF0IjoxNjc1MDAzNjQ4fQ.cj70rJWa3H_zccPoLGa6zp73zlK1J4zeOQ1Ii2KwXq4","userID":"63d67bea76a965001640b6c2","firstName":"Hatem"}"
+[DEBUG] 2023-01-29 16:47:23.091 [TestNG-test=Test-1] BasicClientConnectionManager - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@2acf08c0
+[DEBUG] 2023-01-29 16:47:23.092 [TestNG-test=Test-1] BasicClientConnectionManager - Connection can be kept alive indefinitely
+[INFO ] 2023-01-29 16:47:25.891 [TestNG-test=Test-1] ReportManager - Successfully created attachment "API Request - Specifications"
+[DEBUG] 2023-01-29 16:47:25.961 [TestNG-test=Test-1] cache - Couldn't find template in cache for "codeblock.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-01-29 16:47:25.963 [TestNG-test=Test-1] cache - TemplateLoader.findTemplateSource("codeblock_en_US.ftl"): Not found
+[DEBUG] 2023-01-29 16:47:25.966 [TestNG-test=Test-1] cache - TemplateLoader.findTemplateSource("codeblock_en.ftl"): Not found
+[DEBUG] 2023-01-29 16:47:25.968 [TestNG-test=Test-1] cache - TemplateLoader.findTemplateSource("codeblock.ftl"): Found
+[DEBUG] 2023-01-29 16:47:25.969 [TestNG-test=Test-1] cache - Loading template for "codeblock.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Mass/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/markup/codeblock.ftl"
+[DEBUG] 2023-01-29 16:47:26.412 [TestNG-test=Test-1] cache - Couldn't find template in cache for "codeblock.json.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-01-29 16:47:26.413 [TestNG-test=Test-1] cache - TemplateLoader.findTemplateSource("codeblock.json_en_US.ftl"): Not found
+[DEBUG] 2023-01-29 16:47:26.413 [TestNG-test=Test-1] cache - TemplateLoader.findTemplateSource("codeblock.json_en.ftl"): Not found
+[DEBUG] 2023-01-29 16:47:26.414 [TestNG-test=Test-1] cache - TemplateLoader.findTemplateSource("codeblock.json.ftl"): Found
+[DEBUG] 2023-01-29 16:47:26.414 [TestNG-test=Test-1] cache - Loading template for "codeblock.json.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Mass/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/markup/codeblock.json.ftl"
+[INFO ] 2023-01-29 16:47:26.505 [TestNG-test=Test-1] ReportManager - Successfully created attachment "API Request - JSON Body"
+[INFO ] 2023-01-29 16:47:26.511 [TestNG-test=Test-1] ReportManager - Successfully created attachment "API Response - JSON Body"
+[DEBUG] 2023-01-29 16:47:26.940 [TestNG-test=Test-1] CompiledPath - Evaluating path: $['firstName']
+[INFO ] 2023-01-29 16:47:26.947 [TestNG-test=Test-1] ReportManager - Get response jsonvalue "firstName".
+[INFO ] 2023-01-29 16:47:26.974 [TestNG-test=Test-1] ReportManager - Successfully created attachment "SHAFT Engine Logs - Current Method log: testWaits"
+[INFO ] 2023-01-29 16:47:27.266 [main] ReportManager - 
+################################################################################################################################################
+Starting Execution of a Configuration (Setup or Teardown) Method
+Test Method:		"io.github.shafthq.shaft.listeners.helpers.ConfigurationHelper.suiteTeardown"
+################################################################################################################################################
+[INFO ] 2023-01-29 16:47:27.269 [main] ReportManager - Successfully created attachment "SHAFT Engine Logs - Execution log"
+[INFO ] 2023-01-29 16:47:27.274 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "target/logs/log4j.log"".
+[INFO ] 2023-01-29 16:47:27.282 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "target/logs/log4j.log"".

@@ -1,0 +1,13 @@
+
+################################################################################################################################################
+Starting Execution:	"1 out of 1" test cases in the current suite
+Test Method:		"Shaft1.Shaft1.APIS.testWaits"
+################################################################################################################################################
+[ReportManager] Response status code: "200", status line: "HTTP/1.1 200 OK" @29-01-2023 16:47:23.0001 PM
+[ReportManager] Assertion "ValidateComparativeRelation" PASSED. Expected "200" and Actual "200". Comparison Type "EQUALS". Validation Type "POSITIVE". @29-01-2023 16:47:23.0015 PM
+[ReportManager] Assertion Passed: Evaluating the actual response status code against the expected one... @29-01-2023 16:47:23.0016 PM
+[ReportManager] Perform request "POST | Target Status Code: 200 | Service URL: https://todo.qacart.com/api/v1/users/login | Content Type: application/json | Response Time: 2254ms". @29-01-2023 16:47:25.0888 PM
+[ReportManager] Successfully created attachment "API Request - Specifications" @29-01-2023 16:47:25.0891 PM
+[ReportManager] Successfully created attachment "API Request - JSON Body" @29-01-2023 16:47:26.0505 PM
+[ReportManager] Successfully created attachment "API Response - JSON Body" @29-01-2023 16:47:26.0511 PM
+[ReportManager] Get response jsonvalue "firstName". @29-01-2023 16:47:26.0947 PM
